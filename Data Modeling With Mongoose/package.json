@@ -1,0 +1,24 @@
+{
+  "name": "backend-development",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaitanyakanade2405/Backend-development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaitanyakanade2405/Backend-development/issues"
+  },
+  "homepage": "https://github.com/chaitanyakanade2405/Backend-development#readme",
+  "description": "",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "mongoose": "^8.16.0"
+  }
+}
